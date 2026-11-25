@@ -1,0 +1,16 @@
+On Start:
+    Worlds:
+        [
+            [
+                ["Badbot", "Drone"],
+                ["Alpha", "Guardian"]
+            ],
+            [
+                ["Maxibot", "Mecha"],
+                ["Dynabot", "Shnaï"]
+            ]
+        ]
+
+    Print: Worlds[0][0][0]
+    Print: Worlds[1][1][1]
+    Print: Worlds[0][1].Count
